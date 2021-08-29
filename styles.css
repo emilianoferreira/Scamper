@@ -1,0 +1,12 @@
+* {
+    background-color: grey;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#imagen1 {
+    height: 500px;
+}
